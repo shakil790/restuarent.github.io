@@ -1,0 +1,1135 @@
+@media screen and (min-width: 992px) and (max-width: 1169px) { 
+	.container {
+		width: 960px;
+	}
+	
+	/* header-menu-area-start */
+	
+	.header-menu-logo img {
+		width: 20%;
+	}
+	
+	.header-menu-left-content:before {
+		top: -27px;
+	}
+	
+	.header-menu-left-content p {
+		margin-top: -9px;
+	}
+	
+	.header-search {
+		margin-top: -10px;
+	}
+	
+	.header-search i {
+		left: 60%;
+	}
+	
+	.mean-container .mean-bar {
+		background: #1b1b1b;
+	}
+	
+	.mean-container .mean-nav ul li a {
+		background: #1b1b1b;
+	}
+	
+	.active {
+		border-bottom: none;
+	}
+	
+	/* header-menu-area-end */
+	
+	
+	/* header-area-start */
+	
+	.header-content-area {
+		top: 24%;
+	}
+	
+	/* header-area-end */
+	
+	/* welcome-area-start */
+	
+	.welcome-left-area img {
+		width: 100%;
+	}
+	
+	/* welcome-area-end */
+	
+	
+	/* promise-area-start */
+	
+	.promise-area-left-content {
+		padding: 60px 10px;
+	}
+	
+	.promise-area {
+		margin-bottom: -55px;
+	}
+	
+	.promise-area-grid {
+		grid-column-gap: 0px;
+	}
+	
+	/* promise-area-end */
+	
+	/* time-area-start */
+	
+	.time-area {
+		height: 100%;
+	}
+	
+	.time-area::before {
+		height: 100%;
+	}
+	
+	.time-area-grid {
+		grid-template-columns: auto;
+		grid-row-gap: 50px;
+		padding-bottom: 100px;
+	}
+	
+	.time-area-content1 {
+		text-align: center;
+	}
+	
+	.time-area-main-content {
+		text-align: center;
+	}
+	
+	.time-title h2 {
+		padding-top: 100px;
+	}
+	
+	/* time-area-end */
+	
+	
+	/* menu-area-start */
+	
+		.menu-isotope-button {
+			text-align: center;
+		}
+		.row {
+			width: 960px;
+		}
+		.col-4 {
+			padding: 0px 15px;
+		}
+		.menu-area-main-content:hover .menu-area-img-button a {
+			top: 40%;
+		}
+		.menu-area-img-button a {
+			left: 32%;
+		}
+	
+	/* menu-area-end */
+	
+	
+	/* wine-area-start */
+	
+	.wine-area .tns-controls button {
+		left: 89%;
+	}
+	
+	.wine-single-slider:hover .wine-area-img-button a {
+		top: 42%;
+		left: 25%;
+	}
+	
+	.wine-area-img-button a {
+		left: 25%;
+	}
+	
+	/* wine-area-end */
+	
+	/* team-area-start */
+	
+		.team-icon {
+			left: 17%;
+		}
+	
+		[data-controls="next"] {
+			right: 94%;
+		}
+		
+		[data-controls="prev"] {
+			left: 7%;
+		}
+	
+	/* team-area-end */
+	
+	/*  booking-area-start */
+	
+		.booking-left-area img {
+			margin-top: 0px;
+		}
+		
+		.booking-area {
+			margin: 100px 0px;
+		}
+	
+	/*  booking-area-end */
+	
+	/* touch-area-start */
+	
+		.email-sub {
+			width: 71%; 
+		}
+	
+	/* touch-area-end */
+	
+	/* contact-area-start */
+	
+		.contact-form-grid {
+			grid-template-columns: auto;
+		}
+	
+	/* contact-area-end */
+	
+	/* footer-area-start */
+	
+		.footer-area-grid {
+			grid-template-columns: auto auto auto;
+		}
+		
+		footer {
+			height: 100%;
+		}
+		
+		.footer-bottom-grid {
+			grid-template-columns: auto;
+			text-align: center;
+		}
+		
+		.footer-bottom-icon {
+			text-align: center;
+			margin-top: -38px;
+		}
+	
+	/* footer-area-end */
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+	.container {
+		width: 720px;
+	}
+	
+	/* header-menu-area-start */
+	
+	.header-menu-logo img {
+		width: 20%;
+	}
+	
+	.header-menu-left-content:before {
+		top: -34px;
+	}
+	
+	.header-menu-left-content p {
+		margin-top: -16px;
+	}
+	
+	.header-search {
+		margin-top: -19px;
+	}
+	
+	.header-search i {
+		left: 70%;
+	}
+	
+	.mean-container .mean-bar {
+		background: #1b1b1b;
+	}
+	
+	.mean-container .mean-nav ul li a {
+		background: #1b1b1b;
+	}
+	
+	.active {
+		border-bottom: none;
+	}
+	
+	/* header-menu-area-end */
+	
+	/* header-area-start */
+	
+	.header-content-area {
+		top: 18%;
+	}
+	
+	.header-main-content h1 {
+		font-size: 35px;
+	}
+	
+	/* header-area-end */
+	
+	/* welcome-area-start */
+	
+	.welcome-left-area img {
+		width: 100%;
+	}
+	
+	.welcome-left-area {
+		padding-bottom: 100px;
+	}
+	
+	/* welcome-area-end */
+	
+	/* service-area-start */
+	
+		.service-area-grid {
+			width: 100%;
+			grid-template-columns: auto;
+			grid-row-gap: 50px;
+		}
+	
+	/* service-area-end */
+	
+	/* promise-area-start */
+	
+		.promise-area-grid {
+			width: 100%;
+			grid-template-columns: auto;
+		}
+		
+		.promise-area-left-content {
+			padding: 100px 10px;
+			text-align: center;
+		}
+		
+		.promise-right-img img {
+			width: 70%;
+			margin: 0 auto;
+		}
+	
+	/* promise-area-end */
+	
+	/* time-area-start */
+	
+	.time-area {
+		height: 100%;
+	}
+	
+	.time-area::before {
+		height: 100%;
+	}
+	
+	.time-area-grid {
+		grid-template-columns: auto;
+		grid-row-gap: 50px;
+		padding-bottom: 100px;
+	}
+	
+	.time-area-content1 {
+		text-align: center;
+	}
+	
+	.time-area-main-content {
+		text-align: center;
+	}
+	
+	.time-title h2 {
+		padding-top: 100px;
+	}
+	
+	/* time-area-end */
+	
+	/* menu-area-start */
+	
+		.menu-isotope-button {
+			width: 760px;
+		}
+		
+		.row {
+			width: 760px;
+			margin-left: -20px;
+		}
+		
+		.col-4 {
+			padding: 0px 15px;
+		}
+		.menu-area-main-content:hover .menu-area-img-button a {
+			top: 38%;
+			left: 26%;
+		}
+		
+		.menu-area-img-button a  {
+			left: 28%;
+		}
+	
+	/* menu-area-end */
+	
+	/* wine-area-start */
+	
+	.wine-area .tns-controls button {
+		left: 85%;
+	}
+	
+	.wine-single-slider:hover .wine-area-img-button a {
+		top: 42%;
+		left: 25%;
+	}
+	
+	.wine-area-img-button a {
+		left: 25%;
+	}
+	
+	/* wine-area-end */
+	
+	/* team-area-start */
+	
+		[data-controls="next"] {
+			right: 90%;
+		}
+		
+		[data-controls="prev"] {
+			left: 12%;
+		}
+	
+	/* team-area-end */
+	
+	/*  booking-area-start */
+		.booking-grid {
+			grid-template-columns: auto;
+		}
+	
+		.booking-left-area img {
+			width: 70%;
+			display: block;
+			margin: 0 auto;
+			padding-bottom: 50px;
+		}
+		
+		.booking-area {
+			margin: 100px 0px;
+		}
+	
+	/*  booking-area-end */
+	
+	/* touch-area-start */
+	
+		.touch-area {
+			height: 100%;
+			padding-bottom: 35px;
+		}
+		
+		.touch-area-grid {
+			grid-template-columns: auto;
+			text-align: center;
+		}
+	
+	/* touch-area-end */
+	
+	/* contact-area-start */
+	
+		.contact-form-grid {
+			grid-template-columns: auto;
+			width: 90%;
+		}
+	
+	/* contact-area-end */
+	
+	/* footer-area-start */
+	
+		.footer-area-grid {
+			grid-template-columns: auto auto;
+		}
+		
+		footer {
+			height: 100%;
+		}
+		
+		.footer-bottom-grid {
+			grid-template-columns: auto;
+			text-align: center;
+		}
+		
+		.footer-bottom-icon {
+			text-align: center;
+			margin-top: -38px;
+		}
+	
+	/* footer-area-end */
+	
+}
+
+@media screen and (min-width: 540px) and (max-width: 767px) { 
+
+	.container {
+		width: 500px;
+	}
+	
+	/* header-menu-area-start */
+	
+	.header-menu-left-content:before {
+		top: -29px;
+	}
+	
+	.header-menu-left-content p {
+		margin-top: -10px;
+		padding-right: 15px;
+	}
+	
+	.header-search {
+		margin-top: -11px;
+	}
+	
+	.header-search i {
+		left: 85%;
+	}
+	
+	.mean-container .mean-bar {
+		background: #1b1b1b;
+	}
+	
+	.mean-container .mean-nav ul li a {
+		background: #1b1b1b;
+	}
+	
+	.active {
+		border-bottom: none;
+	}
+	
+	/* header-menu-area-end */
+	
+	/* header-area-start */
+	
+		.header-content-area {
+			top: 20%;
+		}
+		
+		.header-main-content h1 {
+			font-size: 25px;
+			color: #fff;
+			background: #222;
+			padding: 10px 0px;
+		}
+	
+		.header-main-content p {
+			font-size: 15px;
+			color: #fff;
+			background: #222;
+			padding: 10px 0px;
+		}
+		
+		video {
+			display: block;
+			height: 550px;
+		}
+		
+		.header-area:before {
+			height: 100%;
+			background: none;
+		}
+		
+		.header-area {
+			height: 100%;
+		}
+	
+	/* header-area-end */
+	
+	/* welcome-area-start */
+	
+		.welcome-area {
+			margin: 0px;
+		}
+		
+		.welcome-area-grid {
+			grid-template-columns: auto;
+			text-align: center;
+		}
+	
+		.welcome-left-area img {
+			margin-top: 50px;
+			width: 100%;
+		}
+	
+		.welcome-left-area {
+			padding-bottom: 0px;
+		}
+		
+		.welcome-left-area-button a {
+			padding: 20px;
+			cursor: pointer;
+		}
+	
+	/* welcome-area-end */
+	
+	/* service-area-start */
+	
+		.service-area-grid {
+			grid-template-columns: auto;
+			grid-row-gap: 50px;
+		}
+	
+	/* service-area-end */
+	
+	/* promise-area-start */
+	
+		.promise-area-grid {
+			width: 100%;
+			grid-template-columns: auto;
+		}
+		
+		.promise-area-left-content {
+			padding: 100px 10px;
+			text-align: center;
+		}
+		
+		.promise-right-img img {
+			width: 70%;
+			margin: 0 auto;
+		}
+	
+	/* promise-area-end */
+	
+	/* time-area-start */
+	
+	.time-area {
+		height: 100%;
+	}
+	
+	.time-area::before {
+		height: 100%;
+	}
+	
+	.time-area-grid {
+		grid-template-columns: auto;
+		grid-row-gap: 50px;
+		padding-bottom: 100px;
+	}
+	
+	.time-area-content1 {
+		text-align: center;
+	}
+	
+	.time-area-main-content {
+		text-align: center;
+	}
+	
+	.time-title h2 {
+		padding-top: 100px;
+	}
+	
+	/* time-area-end */
+	
+	/* menu-area-start */
+	
+		.menu-isotope-button ul li {
+			padding: 15px;
+			margin-bottom: 20px;
+		}
+	
+		.menu-isotope-button {
+			width: 500px;
+		}
+		
+		.row {
+			width: 500px;
+		}
+		
+		.col-4 {
+			width: 50%;
+			float: none;
+			padding-left: none;
+			padding-right: none;
+		}
+		
+		.menu-area-main-content:hover .menu-area-img-button a {
+			top: 38%;
+			left: 26%;
+		}
+		
+		.menu-area-img-button a  {
+			left: 28%;
+		}
+	
+	/* menu-area-end */
+	
+	/* wine-area-start */
+	
+	.wine-area .tns-controls button {
+		left: 79%;
+	}
+	
+	.wine-single-slider:hover .wine-area-img-button a {
+		top: 42%;
+		left: 25%;
+	}
+	
+	.wine-area-img-button a {
+		left: 25%;
+	}
+	
+	/* wine-area-end */
+	
+	/* team-area-start */
+	
+		[data-controls="next"] {
+			right: 90%;
+		}
+		
+		[data-controls="prev"] {
+			left: 12%;
+		}
+		
+		.team-icon ul li {
+			width: 47px;
+			height: 47px;
+		}
+		
+		.team-icon {
+			left: 10%;
+		}
+	
+	/* team-area-end */
+	
+	
+	/*  booking-area-start */
+	
+		.booking-grid {
+			grid-template-columns: auto;
+		}
+	
+		.booking-left-area img {
+			width: 70%;
+			display: block;
+			margin: 0 auto;
+			padding-bottom: 50px;
+		}
+		
+		.booking-area {
+			margin: 100px 0px;
+		}
+		
+		.booking-right-area {
+			text-align: center;
+		}
+	
+	/*  booking-area-end */
+	
+	/* touch-area-start */
+	
+		.touch-area {
+			height: 100%;
+			padding-bottom: 35px;
+		}
+		
+		.touch-area-grid {
+			grid-template-columns: auto;
+			text-align: center;
+		}
+		
+		.email-sub {
+			width: 90%;
+			margin-bottom: 20px;
+		}
+	
+	/* touch-area-end */
+	
+	/* contact-area-start */
+	
+		.contact-grid {
+			grid-template-columns: auto;
+			grid-row-gap: 50px;
+		}
+		
+		.contact-form-grid {
+			grid-template-columns: auto;
+			width: 90%;
+		}
+	
+	/* contact-area-end */
+	
+	/* footer-area-start */
+	
+		.footer-area-grid {
+			grid-template-columns: auto;
+			text-align: center;
+			grid-row-gap: 50px;
+		}
+		
+		.footer-work-grid {
+			grid-row-gap: 30px;
+		}
+		
+		footer {
+			height: 100%;
+		}
+		
+		.footer-bottom-grid {
+			grid-template-columns: auto;
+			text-align: center;
+		}
+		
+		.footer-bottom-icon {
+			text-align: center;
+			margin-top: -38px;
+		}
+	
+	/* footer-area-end */
+
+}
+
+
+@media (max-width: 539px){
+	
+	.container{
+		width: 340px;
+	}
+	
+	/* header-menu-area-start */
+	
+	.header-menu-grid {
+		grid-template-columns: auto;
+		text-align: center;
+	}
+	
+	.header-menu-area {
+		height: auto;
+	}
+	.header-menu-left-content {
+		text-align: left;
+	}
+	.header-menu-logo img {
+		width: 100px;
+	}
+	
+	.header-menu-left-content p {
+		font-size: 18px;
+		margin-top: -15px;
+		padding-bottom: 15px;
+	}
+	.header-search input {
+		padding: 10px;
+	}
+	
+	.header-search {
+		margin-top: -15px;
+	}
+	.header-search i {
+		left: 68%;
+	}
+	
+	.header-menu-left-content {
+		margin-left: 35px;
+	}
+	
+	.header-menu-left-content::before {
+		background: none;
+	}
+	
+	.active {
+		border-bottom: none;
+	}
+	
+	/* header-menu-area-end */
+	
+	/* header-area-start */
+	
+	.header-content-logo-area img {
+		display: none;
+	}
+	
+	.header-content-area {
+			top: 40%;
+	}
+		
+		.header-main-content h1 {
+			font-size: 18px;
+			color: #fff;
+			background: #222;
+			padding: 10px 0px;
+		}
+	
+		.header-main-content p {
+			font-size: 13px;
+			color: #fff;
+			background: #222;
+			padding: 10px 0px;
+		}
+		
+		video {
+			display: block;
+			height: 690px;
+		}
+		
+		.header-area:before {
+			height: 100%;
+			background: none;
+		}
+		
+		.header-area {
+			height: 100%;
+		}
+	
+	/* header-area-end */
+	
+	/* welcome-area-start */
+	
+		.welcome-area {
+			margin-top: -150px;
+		}
+		
+		.welcome-area-grid {
+			grid-template-columns: auto;
+			text-align: center;
+		}
+	
+		.welcome-left-area img {
+			width: 100%;
+			margin-top: 50px;
+		}
+	
+		.welcome-left-area {
+			padding-bottom: 0px;
+		}
+		
+		.welcome-left-area-button a {
+			padding: 20px;
+			cursor: pointer;
+		}
+	
+	/* welcome-area-end */
+	
+	/* service-area-start */
+	
+		.service-area-grid {
+			grid-template-columns: auto;
+			grid-row-gap: 50px;
+		}
+	
+	/* service-area-end */
+	
+	/* promise-area-start */
+	
+		.promise-area-grid {
+			width: 100%;
+			grid-template-columns: auto;
+		}
+		
+		.promise-area-left-content {
+			padding: 100px 10px;
+			text-align: center;
+		}
+		
+		.promise-right-img img {
+			width: 70%;
+			margin: 0 auto;
+		}
+	
+	/* promise-area-end */
+	
+	/* time-area-start */
+	
+	.time-area {
+		height: 100%;
+	}
+	
+	.time-area::before {
+		height: 100%;
+	}
+	
+	.time-area-grid {
+		grid-template-columns: auto;
+		grid-row-gap: 50px;
+		padding-bottom: 100px;
+	}
+	
+	.time-area-content1 {
+		text-align: center;
+	}
+	
+	.time-area-main-content {
+		text-align: center;
+	}
+	
+	.time-title h2 {
+		padding-top: 100px;
+	}
+	
+	/* time-area-end */
+	
+	/* menu-area-start */
+	
+		.menu-isotope-button ul li {
+			padding: 11px;
+			margin-bottom: 20px;
+		}
+	
+		.menu-isotope-button {
+			width: 340px;
+			margin-top: -35px;
+		}
+		
+		.row {
+			width: 340px;
+		}
+		
+		.col-4 {
+			width: 100%;
+			float: none;
+			padding-left: none;
+			padding-right: none;
+		}
+		
+		.menu-area-main-content:hover .menu-area-img-button a {
+			top: 43%;
+			left: 33%;
+		}
+		
+		.menu-area-img-button a  {
+			left: 33%;
+		}
+	
+	/* menu-area-end */
+	
+	/* wine-area-start */
+	
+		.menu-area-title h2 {
+			margin-bottom: 113px;
+		}
+		
+		.wine-area .tns-controls button {
+			left: 73%;
+		}
+		
+		.wine-single-slider:hover .wine-area-img-button a {
+			top: 46%;
+			left: 33%;
+		}
+	
+		.wine-area-img-button a {
+			left: 33%;
+		}
+		
+		.wine-area .tns-controls button[data-controls="prev"] {
+			right: 0px; 
+		}
+	
+	/* wine-area-end */
+	
+	/* team-area-start */
+	
+		[data-controls="next"] {
+			right: 83%;
+		}
+		
+		[data-controls="prev"] {
+			left: 20%;
+		}
+		
+		.team-icon {
+			left: 21%;
+		}
+	
+	/* team-area-end */
+	
+	/*  booking-area-start */
+	
+		.booking-grid {
+			grid-template-columns: auto;
+		}
+	
+		.booking-left-area img {
+			width: 70%;
+			display: block;
+			margin: 0 auto;
+			padding-bottom: 50px;
+		}
+		
+		.booking-area {
+			margin: 100px 0px;
+		}
+		
+		.booking-right-area {
+			text-align: center;
+		}
+		
+		.inp {
+			width: 100%;
+		}
+	
+	/*  booking-area-end */
+	
+	/* touch-area-start */
+	
+		.touch-area {
+			height: 100%;
+			padding-bottom: 35px;
+		}
+		
+		.touch-area-grid {
+			grid-template-columns: auto;
+			text-align: center;
+		}
+		
+		.email-sub {
+			width: 100%;
+			margin-bottom: 20px;
+			margin-right: 0px;
+		}
+	
+	/* touch-area-end */
+	
+	/* contact-area-start */
+	
+		.contact-grid {
+			grid-template-columns: auto;
+			grid-row-gap: 50px;
+		}
+		
+		.contact-form-grid {
+			grid-template-columns: auto;
+			width: 90%;
+		}
+	
+	/* contact-area-end */
+	
+	/* testimonial-area-start */
+	
+		.testimonial-img-area img {
+			width: 35%;
+		}
+	
+	/* testimonial-area-end */
+	
+	/* footer-area-start */
+	
+		.footer-area-grid {
+			grid-template-columns: auto;
+			text-align: center;
+			grid-row-gap: 50px;
+		}
+		
+		.footer-work-grid {
+			grid-row-gap: 30px;
+		}
+		
+		footer {
+			height: 100%;
+		}
+		
+		.footer-bottom-grid {
+			grid-template-columns: auto;
+			text-align: center;
+		}
+		
+		.footer-bottom-left p {
+			line-height: 35px;
+			margin: 20px 0px;
+		}
+		
+		.footer-bottom-icon {
+			text-align: center;
+			margin-top: -38px;
+		}
+		
+		.footer-bottom-icon ul li {
+			width: 47px;
+			height: 47px;
+		}
+	
+	/* footer-area-end */
+	
+}
