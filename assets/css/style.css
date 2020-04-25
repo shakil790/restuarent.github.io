@@ -1124,7 +1124,8 @@ div#tns2-ow {
 
 .contact-form-right-area textarea {
     width: 100%;
-    padding: 10px 10px 34px;
+	height: 91px;
+    padding: 10px 10px;
     text-transform: capitalize;
     color: #7e7e7e;
     border: 2px solid #f5f5f5;
